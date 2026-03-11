@@ -41,5 +41,6 @@ Estudante de Análise e Desenvolvimento de Sistemas com interesse em Software De
 
 ---
 
-## Philosophy
+
+## 🧠 Philosophy
 Between logic and chaos, code is the language that transforms thought into reality.
